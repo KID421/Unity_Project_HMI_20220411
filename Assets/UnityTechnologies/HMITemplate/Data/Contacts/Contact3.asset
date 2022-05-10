@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9875e74a70a896344907d0f398da1630, type: 3}
+  m_Name: Contact3
+  m_EditorClassIdentifier: 
+  ProfilePicture: {fileID: 21300000, guid: 4afdbf15aa25b9948acd823f2f88a27b, type: 3}
+  Name: Jessica Bridge
+  PhoneNumber: (382) 978-7610
+  Email: j.bridge@fake.com
+  Birthday: 5/9/1975
+  Group: Friends

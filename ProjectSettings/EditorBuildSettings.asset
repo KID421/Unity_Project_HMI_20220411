@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UnityTechnologies/HMITemplate/Scenes/SplitScreenSetup.unity
+    guid: 902a32fb2598bd6419fdb89502892461
+  - enabled: 1
+    path: Assets/UnityTechnologies/HMITemplate/Scenes/MultiScreenSetup.unity
+    guid: 50138a02375714047b7cd53fcd1109ed
+  - enabled: 1
+    path: Assets/UnityTechnologies/HMITemplate/Scenes/IVI.unity
+    guid: cb593690074f28445bbe5a1a642134c7
+  - enabled: 1
+    path: Assets/UnityTechnologies/HMITemplate/Scenes/Cluster.unity
+    guid: 5353b6079660e8747a8042412aa8bcb1
+  - enabled: 1
+    path: Assets/UnityTechnologies/HMITemplate/Scenes/HVAC.unity
+    guid: d409ab10935d28f468e76d5086e79f65
   m_configObjects: {}

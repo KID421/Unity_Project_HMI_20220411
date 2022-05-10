@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: VolumePopup_Controller
+  m_Controller: {fileID: 9100000, guid: c988fbe659058ad4a9a2dc87c4c78993, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 318c8dc1c2a8d11418664ac96f2314fd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 631489b8cf089ba47977cb077e2e85c2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 66e17b6a3b5b41042a6003524ee73a4a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 540792973279aa049b1964baae50dbae, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 66d828b165a73fa408a443d1de9ca67b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b59ab867e659ad34eace617369dcb513, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ef7ee78d68f61814ead0653733c947a2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c2576b417b2b4874495b01f3a6e45a20, type: 2}

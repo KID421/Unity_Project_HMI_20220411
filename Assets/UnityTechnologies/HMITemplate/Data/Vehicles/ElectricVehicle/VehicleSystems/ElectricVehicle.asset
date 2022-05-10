@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 607dd1d070980334d8a6e4301efbf196, type: 3}
+  m_Name: ElectricVehicle
+  m_EditorClassIdentifier: 
+  Drag: {fileID: 11400000, guid: 3bbb4b38054d68640b09fec73bc41f62, type: 2}
+  Engine: {fileID: 11400000, guid: 08f61ab0f4b79344895b6dbb02d40174, type: 2}
+  Brake: {fileID: 11400000, guid: 3cedefce04eecfd4295e9acb56691d08, type: 2}
+  Transmission: {fileID: 11400000, guid: 7dff28c02bf27654ea61fa6cdd4ea612, type: 2}
+  Odometer: {fileID: 11400000, guid: d9ac477ab0f0b00468130231064f0aba, type: 2}
+  Battery: {fileID: 11400000, guid: f88d5dc510d0b59499075c78f9904fb0, type: 2}
+  EnergyConsumption: {fileID: 11400000, guid: f5c727cda9ea1fc4f89ff57f16a73c86, type: 2}
+  RegenerativeBraking: {fileID: 11400000, guid: 364f5c1bdf1640c49aa9150545789503, type: 2}
+  EnergyConsumptionLogger: {fileID: 11400000, guid: 45efeb2edcf0b414b9340fad104449e8, type: 2}
+  SpeedControlData: {fileID: 11400000, guid: cdc0398e92ec49240b75e1603b946f4a, type: 2}

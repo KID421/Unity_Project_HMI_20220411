@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80fc709f6748fce44a7c613bbb40a1e1, type: 3}
+  m_Name: EnergyConsumption
+  m_EditorClassIdentifier: 
+  EnergyUsagePerKm:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: -123.062294
+      value: 19.675793
+      inSlope: -0.14870827
+      outSlope: -0.14870827
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.27428484
+    - serializedVersion: 3
+      time: -59.787304
+      value: 9.9602585
+      inSlope: -0.1528108
+      outSlope: -0.1528108
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.20582043
+    - serializedVersion: 3
+      time: -5.5666904
+      value: 1.4868236
+      inSlope: -0.13737638
+      outSlope: -0.13737638
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.14695603
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 5
+      value: 1.6177819
+      inSlope: 0.2679263
+      outSlope: 0.2679263
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 20
+      value: 4
+      inSlope: 0.12022043
+      outSlope: 0.12022043
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.07943981
+    - serializedVersion: 3
+      time: 60
+      value: 8
+      inSlope: 0.08296771
+      outSlope: 0.08296771
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.1443116
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 134.69994
+      value: 22.207712
+      inSlope: 0.4071983
+      outSlope: 0.4071983
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 160
+      value: 38
+      inSlope: 0.83759516
+      outSlope: 0.83759516
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.3777961
+      outWeight: 0.038007095
+    - serializedVersion: 3
+      time: 300
+      value: 167.88663
+      inSlope: 0.99992794
+      outSlope: 0.99992794
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.15724598
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  HistoricalKmPerKwh: 6.3
+  ConsumptionMultiplier: 1

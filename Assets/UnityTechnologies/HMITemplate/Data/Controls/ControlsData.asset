@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfe84e62bd6d4924eaff681cdad203a6, type: 3}
+  m_Name: ControlsData
+  m_EditorClassIdentifier: 
+  ControlsMappingList:
+  - Name: LeftSteeringWheelControl_PlusButton
+    AssignedKey: 113
+    Continuous: 0
+  - Name: LeftSteeringWheelControl_MinusButton
+    AssignedKey: 119
+    Continuous: 0
+  - Name: LeftSteeringWheelControl_SetButton
+    AssignedKey: 97
+    Continuous: 0
+  - Name: LeftSteeringWheelControl_CancelButton
+    AssignedKey: 115
+    Continuous: 0
+  - Name: RightSteeringWheelControl_LeftCarrot
+    AssignedKey: 101
+    Continuous: 0
+  - Name: RightSteeringWheelControl_RightCarrot
+    AssignedKey: 114
+    Continuous: 0
+  - Name: RightSteeringWheelControl_ADASViewLeftButton
+    AssignedKey: 100
+    Continuous: 0
+  - Name: RightSteeringWheelControl_ADASViewRightButton
+    AssignedKey: 102
+    Continuous: 0
+  - Name: SteeringWheelControl_TurnSignalRight
+    AssignedKey: 120
+    Continuous: 0
+  - Name: SteeringWheelControl_TurnSignalLeft
+    AssignedKey: 122
+    Continuous: 0
+  - Name: SteeringWheelControl_HeadlightsToggle
+    AssignedKey: 99
+    Continuous: 0
+  - Name: CenterConsoleControls_StartEngine
+    AssignedKey: 48
+    Continuous: 0
+  - Name: CenterConsoleControls_HazardLights
+    AssignedKey: 57
+    Continuous: 0
+  - Name: CenterConsoleControls_IVI_ChargingMenu
+    AssignedKey: 121
+    Continuous: 0
+  - Name: CenterConsoleControls_IVI_NavigationMenu
+    AssignedKey: 117
+    Continuous: 0
+  - Name: CenterConsoleControls_IVI_CarMenu
+    AssignedKey: 105
+    Continuous: 0
+  - Name: CenterConsoleControls_IVI_MusicMenu
+    AssignedKey: 111
+    Continuous: 0
+  - Name: CenterConsoleControls_IVI_ProfileMenu
+    AssignedKey: 112
+    Continuous: 0
+  - Name: CenterConsoleControls_IVIKnob_Ok
+    AssignedKey: 13
+    Continuous: 0
+  - Name: CenterConsoleControls_IVIKnob_Back
+    AssignedKey: 106
+    Continuous: 0
+  - Name: CenterConsoleControls_IVIKnob_Left
+    AssignedKey: 108
+    Continuous: 0
+  - Name: CenterConsoleControls_IVIKnob_Right
+    AssignedKey: 59
+    Continuous: 0
+  - Name: CenterConsoleControls_MediaKnob_Ok
+    AssignedKey: 258
+    Continuous: 0
+  - Name: CenterConsoleControls_MediaKnob_Previous
+    AssignedKey: 260
+    Continuous: 0
+  - Name: CenterConsoleControls_MediaKnob_Skip
+    AssignedKey: 262
+    Continuous: 0
+  - Name: CenterConsoleControls_MediaKnob_PlayPause
+    AssignedKey: 261
+    Continuous: 0
+  - Name: CenterConsoleControls_EmergencyParkingBrake
+    AssignedKey: 56
+    Continuous: 0
+  - Name: CenterConsoleControls_PRNDL_Next
+    AssignedKey: 93
+    Continuous: 0
+  - Name: CenterConsoleControls_PRNDL_Previous
+    AssignedKey: 91
+    Continuous: 0
+  - Name: Accelerate
+    AssignedKey: 273
+    Continuous: 1
+  - Name: Brake
+    AssignedKey: 274
+    Continuous: 1
+  - Name: AudioVolumeUp
+    AssignedKey: 61
+    Continuous: 0
+  - Name: AudioVolumeDown
+    AssignedKey: 45
+    Continuous: 0

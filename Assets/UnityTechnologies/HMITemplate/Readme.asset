@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: ce797d36a5a484467ac669a1314868ca, type: 3}
+  title: Automotive HMI Template
+  sections:
+  - heading: 
+    text: This template contains a simple, interactive automotive HMI, spanning an
+      instrument cluster, a head unit and a HVAC/climate control screen. Each screen
+      has its own scene, but some assets (like themes) are shared across the screens.
+      The car's HMI controls can be emulated using configurable keymaps.
+    linkText: 
+    url: 
+  - heading: 
+    text: "This work was inspired by the exterior car design of Tianze Yu and the
+      interior car design of Lukas Chesla which is part of a larger sponsorship with
+      the College for Creative Studies (CCS) in Detroit, Michigan. To learn more
+      about Unity\u2019s collaboration with CCS, see our blog post on it"
+    linkText: here
+    url: https://blog.unity.com/manufacturing/why-this-college-is-teaching-real-time-3d-to-the-next-generation-of-automotive
+  - heading: Unity Developers new to HMI
+    text: Learn about the nuances of this project here, including some custom editor
+      scripts that were created to assist in creating multi-display content and themes.
+    linkText: Project Documentation
+    url: http://docs.unity3d.com/templates/automotive-hmi-template@1.0
+  - heading: HMI Designers new to Unity
+    text: Get started with Unity's interface.
+    linkText: Using the Editor
+    url: https://docs.unity3d.com/Manual/UsingTheEditor.html
+  - heading: 
+    text: Learn how to build user interfaces in Unity.
+    linkText: Unity UI System
+    url: https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/index.html
+  - heading: 
+    text: Learn how to get external content into Unity.
+    linkText: Asset Workflow
+    url: https://docs.unity3d.com/Manual/AssetWorkflow.html
+  - heading: HMI Developers new to Unity
+    text: Learn how to develop with Unity.
+    linkText: Creating and Using Scripts
+    url: https://docs.unity3d.com/Manual/CreatingAndUsingScripts.html
+  - heading: 
+    text: Learn how to interface with external APIs through native plugins to connect
+      your HMI to an actual backend. (Or use networking or a web API through C# code)
+    linkText: Native Plugins
+    url: https://docs.unity3d.com/Manual/NativePlugins.html
+  loadedLayout: 1
+  scenes:
+  - m_Handle: 0

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7ac21eeff477743a02e9c2353e9c12, type: 3}
+  m_Name: AirDistribution
+  m_EditorClassIdentifier: 
+  ModesData:
+  - {fileID: 11400000, guid: 04413b36aa3ef8846a1d84bdedcaf18c, type: 2}
+  - {fileID: 11400000, guid: c643e99d9822778499eedd93e0b43110, type: 2}
+  - {fileID: 11400000, guid: 99417c495a88d2f4db71a824da266860, type: 2}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a95916ee5e4b6c14dad424a9c660dc9e, type: 3}
+  m_Name: HVAC
+  m_EditorClassIdentifier: 
+  TemperatureOutside: 32
+  IsAutoTempControlActivated: 0
+  IsAirConditioningActivated: 0
+  IsMaxAirConditioningActivated: 0
+  IsRecirculationActivated: 0
+  IsAirInActivated: 0
+  IsSyncButtonActivated: 0
+  IsDefrostFrontActivated: 0
+  IsDefrostRearActivated: 0
+  IsLeftSeatVentilationActivated: 0
+  IsRightSeatVentilationActivated: 0
+  AirDistributionData: {fileID: 11400000, guid: e53a230d09f5b0c469783c3e5dbc989e, type: 2}
+  HeatingSystemsData:
+  - {fileID: 11400000, guid: 4196e6d57f186e74f954b95c23565bc2, type: 2}
+  - {fileID: 11400000, guid: e93d7f9c148796a4a918b17b4f3b2091, type: 2}
+  BlowersData:
+  - {fileID: 11400000, guid: 332681cade5d2cc409daf69e2c1a071a, type: 2}
+  - {fileID: 11400000, guid: 40f58b81e29d1104bb4b4cf6311aa572, type: 2}
+  ClimateZonesData:
+  - {fileID: 11400000, guid: ee47e516c09d7ae419411b9846f18a14, type: 2}
+  - {fileID: 11400000, guid: 8d72c70479837ef43ba44dd4e620f0f3, type: 2}

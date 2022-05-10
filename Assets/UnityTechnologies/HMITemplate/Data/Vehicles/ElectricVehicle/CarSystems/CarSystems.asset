@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 852840f62e2684b4ea9baccff9adce10, type: 3}
+  m_Name: CarSystems
+  m_EditorClassIdentifier: 
+  IsParkingBrakeOn: 0
+  IsParkingBrakeMalfunctioning: 0
+  IsTirePressureLow: 0
+  IsAnySeatbeltNotFastened: 0
+  IsABSMalfunctioning: 0
+  IsESCActive: 0
+  AreAirbagsActivated: 0
+  IsAnyDoorOrTrunkOpen: 0
+  IsLeftTurningSignalOn: 0
+  IsRightTurningSignalOn: 0
+  AreHazardLightsOn: 0
+  AreFrontFogLightsOn: 0
+  AreParkingLightsOn: 0
+  AreHighBeamHeadlightsOn: 0
+  AreLowBeamHeadlightsOn: 1
+  IsBrakeSystemMalfunctioning: 0

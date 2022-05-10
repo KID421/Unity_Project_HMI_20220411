@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 419c7b05805278d4997584e071bc1cdf, type: 3}
+  m_Name: PRNDTransmission
+  m_EditorClassIdentifier: 
+  Gears:
+  - {fileID: 11400000, guid: c5cdebc856bfdf84597f44025b68b1e7, type: 2}
+  - {fileID: 11400000, guid: 50212c79d3d7973469abaa5847b2dbaf, type: 2}
+  - {fileID: 11400000, guid: fb0d923e6e6b7374bbd38091a2671832, type: 2}
+  - {fileID: 11400000, guid: c3ba812f5b99a464bb87b4a3af383381, type: 2}

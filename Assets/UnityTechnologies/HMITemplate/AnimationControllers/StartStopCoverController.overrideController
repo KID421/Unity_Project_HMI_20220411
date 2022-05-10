@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: StartStopCoverController
+  m_Controller: {fileID: 9100000, guid: c988fbe659058ad4a9a2dc87c4c78993, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 318c8dc1c2a8d11418664ac96f2314fd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5fb33ad4febc4f549885ab11b97920bc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 66e17b6a3b5b41042a6003524ee73a4a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 78e7ec80e33bbbe44bc6369b0c2f56f1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 66d828b165a73fa408a443d1de9ca67b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 42f1df40f4b0e8843b3a69b76ffd89eb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ef7ee78d68f61814ead0653733c947a2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 03cddad0f1b6c794987fdf63f1e0362c, type: 2}
